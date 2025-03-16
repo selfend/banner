@@ -1,6 +1,16 @@
 # banner
 Configure config.js
-To install dependencies:
+```
 npm install
+```
+config.js
+ 
+```
+Configure config.js
+```
+
 To run:
-node index.js
+
+```
+node  index.js
+```
